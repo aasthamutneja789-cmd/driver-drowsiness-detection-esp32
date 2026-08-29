@@ -10,6 +10,16 @@ To account for differences between users, the system performs an initial calibra
 
 The system also analyzes consecutive frames to distinguish a normal blink from prolonged eye closure. When prolonged eye closure is detected, the Python application communicates with an ESP32 through serial communication, which activates an LED and buzzer as an alert.
 
+## Demo
+
+### Eye Closure Detection
+
+![Eye Closure Detection](demo1.png)
+
+### Drowsiness Alert
+
+![Drowsiness Alert](demo2.png)
+
 System Flow
 
 Webcam
