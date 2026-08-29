@@ -60,4 +60,4 @@ Yawning detection
 Head-pose estimation
 PERCLOS-based drowsiness analysis
 Improved false-positive handling
-More comprehensive driver monitoring
+More comprehensive driver monitoring.
